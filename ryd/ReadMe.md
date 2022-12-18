@@ -1,0 +1,1 @@
+# [Return YouTube Dislike Proxy instances list located here](https://github.com/NoPlagiarism/frontend-instances-list/tree/master/instances/ryd/rydproxy)
