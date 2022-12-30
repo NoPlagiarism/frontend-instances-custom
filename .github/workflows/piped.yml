@@ -2,7 +2,7 @@ name: Parse Piped
 
 on:
   schedule: 
-    - cron: '00 12 */7 * *'
+    - cron: '00 10 */7 * *'
 
 jobs:
   build:
