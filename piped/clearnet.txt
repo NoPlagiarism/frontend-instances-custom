@@ -1,7 +1,5 @@
 efy.piped.pages.dev
 il.ax
-pd.vern.cc
-piped.adminforge.de
 piped.chauvet.pro
 piped.garudalinux.org
 piped.hostux.net
@@ -15,7 +13,6 @@ piped.qdi.fi
 piped.smnz.de
 piped.syncpundit.io
 piped.tokhmi.xyz
-piped.video
 piped.video
 watch.leptons.xyz
 watch.whatever.social
