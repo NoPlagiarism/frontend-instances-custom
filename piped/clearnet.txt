@@ -2,7 +2,6 @@ il.ax
 pd.vern.cc
 piped.adminforge.de
 piped.chauvet.pro
-piped.esmailelbob.xyz
 piped.garudalinux.org
 piped.hostux.net
 piped.in.projectsegfau.lt
@@ -16,6 +15,7 @@ piped.qdi.fi
 piped.smnz.de
 piped.tokhmi.xyz
 piped.us.projectsegfau.lt
+piped.video
 piped.video
 watch.leptons.xyz
 watch.whatever.social
