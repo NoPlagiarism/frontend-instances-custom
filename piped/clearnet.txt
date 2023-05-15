@@ -1,11 +1,14 @@
 il.ax
 piped.adminforge.de
 piped.chauvet.pro
+piped.colinslegacy.com
+piped.esmailelbob.xyz
 piped.frontendfriendly.xyz
 piped.garudalinux.org
 piped.hostux.net
 piped.in.projectsegfau.lt
 piped.jotoma.de
+piped.kozmik.studio
 piped.lunar.icu
 piped.mha.fi
 piped.mint.lgbt
@@ -17,7 +20,6 @@ piped.projectsegfau.lt
 piped.qdi.fi
 piped.smnz.de
 piped.tokhmi.xyz
-piped.video
 piped.video
 watch.leptons.xyz
 watch.whatever.social
