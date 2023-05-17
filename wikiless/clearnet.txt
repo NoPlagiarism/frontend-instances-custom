@@ -9,3 +9,4 @@ wikiless.org
 wikiless.rawbit.ninja
 wikiless.tiekoetter.com
 wl.vern.cc
+wiki.privacytools.io
