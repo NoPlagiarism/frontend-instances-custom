@@ -10,3 +10,4 @@ wikiless.rawbit.ninja
 wikiless.tiekoetter.com
 wl.vern.cc
 wiki.privacytools.io
+wiki.sylentpunk.xyz
