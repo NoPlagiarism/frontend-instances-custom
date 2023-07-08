@@ -1,0 +1,1 @@
+# [CloudTube instances list located here](https://github.com/NoPlagiarism/frontend-instances-list/tree/master/instances/youtube/cloudtube)
