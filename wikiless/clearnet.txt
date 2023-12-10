@@ -1,7 +1,5 @@
-wiki.604kph.xyz
 wiki.adminforge.de
 wiki.froth.zone
-wiki.slipfox.xyz
 wikiless.esmailelbob.xyz
 wikiless.funami.tech
 wikiless.northboot.xyz
@@ -10,8 +8,5 @@ wikiless.rawbit.ninja
 wikiless.tiekoetter.com
 wl.vern.cc
 wiki.privacytools.io
-wiki.sylentpunk.xyz
 wikiless.whateveritworks.org
-wikiless.pufe.org
-wikiless.fascinated.cc
 wiki.phreedom.club
