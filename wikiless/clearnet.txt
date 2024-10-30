@@ -1,12 +1,9 @@
 wiki.adminforge.de
 wiki.froth.zone
-wikiless.esmailelbob.xyz
 wikiless.funami.tech
 wikiless.northboot.xyz
 wikiless.org
 wikiless.rawbit.ninja
 wikiless.tiekoetter.com
 wl.vern.cc
-wiki.privacytools.io
-wikiless.whateveritworks.org
 wiki.phreedom.club
